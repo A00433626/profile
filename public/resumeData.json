@@ -1,0 +1,139 @@
+{
+	"main": {
+		"name": "Vidhyadhara Teja Katragadda",
+		"occupation": "Web Developer",
+		"description": "Always exited to learn",
+		"image": "profilepic.png",
+		"bio": "Hi there! I am Vidhyadhara Teja Katragadda!. I've been coding for over 3 years now. As a Full Stack developer I've worked both with startups and large corporations to help build & scale their companies. My skillsets include languages like JavaScript, CSS3, HTML5 together with frameworks like React JS, Node, and Bootstrap. I do this because I love the process of turning dreams into reality by converting ideas into code. I have a serious passion for designing top-grade UI’s with working logic to create a dynamic user experience.",
+		"contactmessage": "Get in touch with me to know me better",
+		"email": "vidhyadharatejak@gmail.com",
+		"phone": "+1 902-880-9171",
+		"address": {
+			"street": "6370 Young street",
+			"city": "Halifax",
+			"state": "Nova Scotia",
+			"zip": "B3L 2A1"
+		},
+		"website": "https://www.papareact.com/course",
+		"resumedownload": "http://papareact.com",
+		"social": [
+			{
+				"name": "facebook",
+				"url": "https://www.facebook.com/profile.php?id=100008491064671",
+				"className": "fa fa-facebook"
+			},
+			{
+				"name": "linkedin",
+				"url": "https://www.linkedin.com/in/vidhyadhara-teja-katragadda/",
+				"className": "fa fa-linkedin"
+			},
+			{
+				"name": "github",
+				"url": "https://github.com/A00433626",
+				"className": "fa fa-github"
+			}
+		]
+	},
+	"resume": {
+		"skillmessage": "My Programming Language Proficiency",
+		"education": [
+			{
+				"school": "Saint Mary's University - CA",
+				"degree": "Master's Degree, Computer Science",
+				"graduated": "Jan 2021",
+				"description": "Graduated with First Class (3.88 GPA)"
+			}
+		],
+		"work": [
+			{
+				"company": "Perennia Food and Agriculture Inc",
+				"title": "Software Developer",
+				"years": "May 2020 - Present",
+				"description": "Cloning all the apps possible. On the way to clone the world! Building the PAPA Fam as large as possible."
+			},
+			{
+				"company": "Saint Mary's Univerity",
+				"title": "Reserach Assistant (Web Developer)",
+				"years": "Nov 2019 - Mar 2020",
+				"description": "Worked in a soccer video analysis project to develop a web application to analyze the video according to the person or object.Developed dynamic and static pages using HTML5, CSS, jQuery, bootstrap, and Javascript.Fixed bugs and implemented enhancements introduced which significantly improved web functionality that could handle 1GB of Data.Used jQuery Ajax to request JSON and sent a response as a CSV, working with d3.js for advanced visualization and video processing is carried out with OpenCV.Made enhancements to the existing prototype by following SDLC that significantly improved the user interface."
+			},
+			{
+				"company": "BEPEC Solutions",
+				"title": "Full Stack Developer",
+				"years": "Aug 2018 - Feb 2019",
+				"description": "Worked in customer behavior analysis project to predict the behavior of customers based on historical data.Involved in a complete software development life cycle including analysis, design, development, and testing. Collaborated closely with upper management to implement new strategies through the development and implementation of new processes.Gathering client requirements, procedures according to the project. Debugged, recorded and executed programs. Obtained meaningful insights from unstructured data.Collected data from various sources and formed into a single data source and performed EDA on data files using R.Converted Voice to text for data preprocessing.Developed an NLP model to predict customer purchase choice based on the voice samples using Python, NLTK Toolkit in which effectively increased the prediction of the customer behavior pattern.Improved performance and tested on different algorithms. Designed UI for support application using HTML5, JavaScript, MUI, and CSS."
+			},
+			{
+				"company": "The Campus Connect",
+				"title": "Developer",
+				"years": "July 2018 - Nov-2018",
+				"description": "Worked in a security agency project to analyze the requirements and to develop an application using image processing to keep track of the vehicle registration plate.Worked with image processing, neural network and different deep learning algorithms.Collected and recorded huge data at various field sites for later assessment and data analysis. Implemented Mask R-CNN to find the relevant segment of the image, used OCR for character recognition from the relevant segment of the image."
+			}
+		],
+		"skills": [
+			{
+				"name": "ReactJs",
+				"level": "90%"
+			},
+			{
+				"name": "HTML5",
+				"level": "90%"
+			},
+			{
+				"name": "CSS3",
+				"level": "90%"
+			},
+			{
+				"name": "JavaScript",
+				"level": "90%"
+			},
+			{
+				"name": "Python",
+				"level": "65%"
+			},
+			{
+				"name": "Typescript",
+				"level": "50%"
+			},
+			{
+				"name": "Redux",
+				"level": "50%"
+			},
+
+			{
+				"name": "Git",
+				"level": "70%"
+			},
+			{
+				"name": "AWS Stack(S3,DynamoDB,Lambda,SNS,API Gateway,AppSync)",
+				"level": "60%"
+			},
+			{
+				"name": "Web Development",
+				"level": "85%"
+			}
+		]
+	},
+	"portfolio": {
+		"projects": [
+			{
+				"title": "Google Clone (React JS)",
+				"category": "",
+				"image": "google.png",
+				"url": "https://a00433626.github.io/googleclone/"
+			},
+			{
+				"title": "Netflix Clone (React JS)",
+				"category": "",
+				"image": "netflix.png",
+				"url": "https://a00433626.github.io/netflix-clone/"
+			},
+			{
+				"title": "Covid Tracker (React JS)",
+				"category": "",
+				"image": "covid-tracker.png",
+				"url": "https://a00433626.github.io/covidtracker_react/"
+			}
+		]
+	}
+}
